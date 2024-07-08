@@ -23,3 +23,7 @@ The program is developed by the following members of the [Theory Lab](https://ww
 [_Resilience of Hund's rule in the chemical space of small organic molecules_](https://doi.org/10.1039/D4CP00886C). 
 Majumdar, A., & Ramakrishnan, R. (2024).
 Physical Chemistry Chemical Physics, 26(20), 14505-14513.
+
+[_Chemical Space-Informed Machine Learning Models for Rapid Predictions of X-ray Photoelectron Spectra of Organic Molecules_](https://arxiv.org/abs/2405.20033).
+Tripathy, S., Das, S., Jindal, S., & Ramakrishnan, R. (2024).
+arXiv preprint arXiv:2405.20033.
