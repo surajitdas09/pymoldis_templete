@@ -1,6 +1,6 @@
-title: PyMOLDIS
+title: PyMolDis
 logo: /assets/img/pople5.png
-description: A dataset for the Quantum Chemical properties
+description: A Python suite for Molecular Discovery using Quantum Chemistry Big Data
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal

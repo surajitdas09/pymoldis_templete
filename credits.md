@@ -1,8 +1,8 @@
 ## How to cite?
 
-The Pople code is made openly available at [https://github.com/moldis-group/pymoldis](https://github.com/moldis-group/pymoldis) with an MIT license (Add). We welcome you to include it in your work. In return, we kindly ask you to cite the underlying entry in your work using PyMOLDIS.
+The PyMolDis code is made openly available at [https://github.com/moldis-group/pymoldis](https://github.com/moldis-group/pymoldis) with an [MIT license](). We welcome you to include it in your work. In return, we kindly ask you to cite the underlying entry in your work using PyMolDis.
 
-Raghunathan Ramakrishnan (2024) "PyMOLDIS: Quantum CHemistry Properties" https://moldis-group.github.io/pymoldis/
+Raghunathan Ramakrishnan (2024) "pymoldis: A Python suite for Molecular Discovery using Quantum Chemistry Big Data" https://moldis-group.github.io/pymoldis/
 
 #### Bibtex entry
 ```
@@ -20,4 +20,6 @@ The program is developed by the following members of the [Theory Lab](https://ww
 
 ## Related publications
 
-Majumdar, A., & Ramakrishnan, R. (2024). [_Resilience of Hund's rule in the chemical space of small organic molecules_](https://doi.org/10.1039/D4CP00886C). Physical Chemistry Chemical Physics, 26(20), 14505-14513.
+[_Resilience of Hund's rule in the chemical space of small organic molecules_](https://doi.org/10.1039/D4CP00886C). 
+Majumdar, A., & Ramakrishnan, R. (2024).
+Physical Chemistry Chemical Physics, 26(20), 14505-14513.
