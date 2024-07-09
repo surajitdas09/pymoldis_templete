@@ -1,9 +1,9 @@
 
-## Installing Pople
+## Installing PyMolDis
 
 ### Installing with pip
 ```
-pip3 install pymoldis
+pip install pymoldis
 ```
 
 ### Installing from source
